@@ -1,0 +1,110 @@
+[
+  {
+    "id": "067d8974-c1a6-4c36-bc42-ab05f82135cd",
+    "name": "Printer",
+    "price": 1200.0,
+    "quantity": 3
+  },
+  {
+    "id": "1a8f2afc-3483-4148-a9a8-984859ecd84d",
+    "name": "Printer",
+    "price": 1200.0,
+    "quantity": 3
+  },
+  {
+    "id": "45a07d4a-1445-4f05-937c-7d90846c7799",
+    "name": "Phone",
+    "price": 12000.0,
+    "quantity": 11
+  },
+  {
+    "id": "53d85bab-3806-43f4-b748-65d0f1c4dcde",
+    "name": "Phone",
+    "price": 12000.0,
+    "quantity": 11
+  },
+  {
+    "id": "55acbf7b-6761-4d26-9fc5-23ec62b0f1ed",
+    "name": "Printer",
+    "price": 1200.0,
+    "quantity": 3
+  },
+  {
+    "id": "6432c372-f864-4e57-a4b1-adeb8830eebc",
+    "name": "Computer",
+    "price": 4300.0,
+    "quantity": 12
+  },
+  {
+    "id": "72593904-b155-4ab2-8080-31a1229f7ccb",
+    "name": "Printer",
+    "price": 1200.0,
+    "quantity": 3
+  },
+  {
+    "id": "803d10dc-6c35-4ae1-8c98-4fca9a93866d",
+    "name": "Printer",
+    "price": 1200.0,
+    "quantity": 3
+  },
+  {
+    "id": "80cf29b8-85d0-4cfa-84da-5b84249460d7",
+    "name": "Phone",
+    "price": 12000.0,
+    "quantity": 11
+  },
+  {
+    "id": "8306cb73-45df-478e-a792-3b032a673b2e",
+    "name": "Computer",
+    "price": 4300.0,
+    "quantity": 12
+  },
+  {
+    "id": "86f7343c-5be1-4aba-8a4c-8be6164d3f68",
+    "name": "Computer",
+    "price": 4300.0,
+    "quantity": 12
+  },
+  {
+    "id": "8a7fe88f-b143-482f-8952-55a46622a67e",
+    "name": "Computer",
+    "price": 4300.0,
+    "quantity": 12
+  },
+  {
+    "id": "9797ddf3-3f68-4532-ad6a-9dd9dda4b1eb",
+    "name": "Phone",
+    "price": 12000.0,
+    "quantity": 11
+  },
+  {
+    "id": "9b281187-349c-41b2-bfe2-bd5bf3d71872",
+    "name": "Phone",
+    "price": 12000.0,
+    "quantity": 11
+  },
+  {
+    "id": "a6fad271-fae0-4cac-ad47-b64a32f26444",
+    "name": "Phone",
+    "price": 12000.0,
+    "quantity": 11
+  },
+  {
+    "id": "b4b92bf7-15a5-4d93-9b10-9e0187a4ae29",
+    "name": "Computer",
+    "price": 4300.0,
+    "quantity": 12
+  },
+  {
+    "id": "f7c1983c-9438-49e8-9bfc-bb03a1ff35d3",
+    "name": "Printer",
+    "price": 1200.0,
+    "quantity": 3
+  },
+  {
+    "id": "fc351c08-fd8b-4786-8371-e368dc118179",
+    "name": "Computer",
+    "price": 4300.0,
+    "quantity": 12
+  }
+]

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="babb5bb9-02e4-47f8-bd13-fd16a016f5eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMD_TERMINAL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-front/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-front/src/assets/silent-check-sso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-app/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-app/src/main/java/net/kachout/customerapp/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-app/src/main/java/net/kachout/customerapp/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-app/src/main/java/net/kachout/customerapp/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-app/src/main/java/net/kachout/customerapp/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-app/src/main/java/net/kachout/customerapp/web/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-app/src/main/java/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-app/src/main/resources/templates/customers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-app/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-app/src/main/resources/templates/notAutorized.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-app/src/main/resources/templates/oauth2Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-app/src/main/resources/templates/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-app/src/main/resources/templates/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/net/kachout/inventoryservice/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/net/kachout/inventoryservice/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/net/kachout/inventoryservice/security/JwtAuthConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/net/kachout/inventoryservice/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/net/kachout/inventoryservice/web/ProductRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/kachout/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2bwpzYYI0vC7o5T4fcza3MCgdCk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "HTTP Request.rest-api_2 | #1.executor": "Run",
+    "HTTP Request.rest-api_2 | #2.executor": "Run",
+    "Karma.authGuard.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.CustomerAppApplication.executor": "Run",
+    "Spring Boot.InventoryServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user_kachout/IdeaProjects/thymeleaf-angular-keycloak",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "C:\\Users\\user_kachout\\IdeaProjects\\thymeleaf-angular-keycloak\\angular-front\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user_kachout\IdeaProjects\thymeleaf-angular-keycloak\customer-app" />
+      <recent name="C:\Users\user_kachout\IdeaProjects\thymeleaf-angular-keycloak\customer-app\src\main\resources\templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.kachout.customerapp.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.InventoryServiceApplication">
+    <configuration name="rest-api_2 | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_2.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_2 | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_2.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="authGuard" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
+      <config-file value="" />
+      <karma-package-dir value="$PROJECT_DIR$/angular-front/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file-path value="$PROJECT_DIR$/angular-front/src/app/guards/auth.guard.spec.ts" />
+      <test-names>
+        <test-name value="authGuard" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="CustomerAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="customer-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.kachout.customerapp.CustomerAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="inventory-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.kachout.inventoryservice.InventoryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.rest-api_2 | #2" />
+        <item itemvalue="HTTP Request.rest-api_2 | #1" />
+        <item itemvalue="Karma.authGuard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="babb5bb9-02e4-47f8-bd13-fd16a016f5eb" name="Changes" comment="" />
+      <created>1707136263254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707136263254</updated>
+      <workItem from="1707136264286" duration="327000" />
+      <workItem from="1707136614570" duration="11389000" />
+      <workItem from="1707235103842" duration="2659000" />
+      <workItem from="1707306726253" duration="15105000" />
+      <workItem from="1707410692192" duration="12725000" />
+      <workItem from="1707496086267" duration="1649000" />
+      <workItem from="1707510196721" duration="12087000" />
+      <workItem from="1707564036756" duration="7209000" />
+      <workItem from="1707595708371" duration="3070000" />
+      <workItem from="1707651870647" duration="2566000" />
+      <workItem from="1707656248910" duration="4126000" />
+      <workItem from="1707758654295" duration="23998000" />
+      <workItem from="1707914337172" duration="13295000" />
+      <workItem from="1708018427306" duration="14733000" />
+      <workItem from="1708099971527" duration="25267000" />
+      <workItem from="1708206135987" duration="6293000" />
+      <workItem from="1708252850072" duration="16233000" />
+      <workItem from="1708723384418" duration="725000" />
+      <workItem from="1708762631209" duration="578000" />
+      <workItem from="1708790250874" duration="591000" />
+      <workItem from="1709384417558" duration="637000" />
+      <workItem from="1709403818396" duration="1481000" />
+      <workItem from="1709577363674" duration="672000" />
+      <workItem from="1709661863437" duration="2668000" />
+      <workItem from="1710888974087" duration="216000" />
+      <workItem from="1712697225614" duration="300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
